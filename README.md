@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabriella
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning web development
-- 📫 You can reach me via email.
+- 📫 You can reach me via email
 
 <!---
 ggwiza/ggwiza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
